@@ -1,7 +1,7 @@
 # arduino_led_tester
 LED tester on atmega328 with adjustable current source.
 
-![Prototype](/image/Markdown-mark.svg "Prototype")
+![Prototype](https://github.com/reg4liz/arduino_led_tester/blob/68fc972c25ec32f19a67384242dea3d9fa7e4213/img/1.jpg "Prototype")
 
 ## Components
 * [ADS1115 ADC Module](https://aliexpress.com/item/1005006532275889.html)
