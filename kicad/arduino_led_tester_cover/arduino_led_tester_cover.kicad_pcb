@@ -3596,29 +3596,6 @@
 		(net 0)
 		(uuid "ff14160c-62cc-4e38-9fcb-be89ca78265b")
 	)
-	(zone
-		(net 0)
-		(net_name "")
-		(layer "F.Cu")
-		(uuid "3b34a1e5-304b-4fa4-af5d-8883ae55fbc6")
-		(hatch edge 0.5)
-		(connect_pads
-			(clearance 0.1)
-		)
-		(min_thickness 0.25)
-		(filled_areas_thickness no)
-		(fill yes
-			(thermal_gap 0.5)
-			(thermal_bridge_width 0.5)
-			(island_removal_mode 1)
-			(island_area_min 10)
-		)
-		(polygon
-			(pts
-				(xy 25.095 70.605) (xy 47.945 70.605) (xy 47.945 92.005) (xy 25.095 92.005)
-			)
-		)
-	)
 	(group ""
 		(uuid "d51cae2b-7ec5-4e6f-b26c-a670f745112b")
 		(members "5ee22e6a-8875-4fe4-8d4e-16c004e4076f" "c2f073ea-4e52-43cc-8e4d-1de0c85da726")
