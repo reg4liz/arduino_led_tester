@@ -15,5 +15,4 @@ LED tester on atmega328 with adjustable current source.
 
 ## TO-DO
 * Full code re-write, at this time this is just a proof of concept to get it working quickly.
-* Design schematic and PCB on KiCad with individual components instead of modules and upload it to the repo.
 * Update components list.
