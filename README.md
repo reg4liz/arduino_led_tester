@@ -4,6 +4,9 @@ LED tester on atmega328 with adjustable current source.
 ## Glorious prototype
 <img src="https://github.com/reg4liz/arduino_led_tester/blob/68fc972c25ec32f19a67384242dea3d9fa7e4213/img/1.jpg" alt="Prototype" width="300"/>
 
+## Schematic
+<img src="https://github.com/reg4liz/arduino_led_tester/blob/main/schematic/schematic.png" alt="Schematic" width="900"/>
+
 ## Main components used for prototype
 * [ATMEGA328P](https://www.digikey.com/en/products/detail/microchip-technology/ATMEGA328P-PU/1914589)
 * [MCP6001 op-amp](https://www.digikey.com/es/products/detail/microchip-technology/MCP6001T-I-OT/551760)
